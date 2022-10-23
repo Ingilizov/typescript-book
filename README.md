@@ -25,7 +25,7 @@
 
 ## Oт автора
 
-Разглеждах проблемите, които се появяват често, когато хората започнат да използват TypeScript. Това се основава на поуките от [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) и ангажираноста ми с [TypeScript общността](https://github.com/TypeStrong/). Можете да ме [последвате за актуализации](https://twitter.com/basarat) и [не забравяйте да дадете ★ в GitHub](https://github.com/basarat/typescript-book) 🌹
+Разглеждах проблемите, които се появяват често, когато хората започнат да използват TypeScript. Това се основава на поуките от [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) и ангажираността ми с [TypeScript общността](https://github.com/TypeStrong/). Можете да ме [последвате за актуализации](https://twitter.com/basarat) и [не забравяйте да дадете ★ в GitHub](https://github.com/basarat/typescript-book) 🌹
 
 
 
