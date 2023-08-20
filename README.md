@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>TypeScript: Дълбоко гмуркане</h1>
+  <h1>TypeScript: Отваряне на дълбините</h1>
   <div>автор: Basarat Ali Syed</div>
   <div>превод от английски: Михаил Ингилизов</div>
   <br/>
